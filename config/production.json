@@ -1,6 +1,0 @@
-{
-    "port": 5000,
-    "jwtSecret": "appCrashed secretString",
-    "mongoUri": "mongodb+srv://Nadya:64013730e@cluster0.t5swq.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-    "baseUrl":"http://localhost:5000"
-}
